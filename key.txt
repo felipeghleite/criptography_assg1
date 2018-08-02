@@ -1,0 +1,2 @@
+Keylength  = 5
+[5A][X][X][X][X]

@@ -15,6 +15,8 @@ void main(){
 	lastKeyLength = 0;
 	lastPos = 0;
 
+	printf("funfa!");
+
 	fpOut = fopen("freq.txt", "w");
 	fpIn = fopen("ctext.txt", "r");
 	fseek(fpIn, 0, SEEK_END);
