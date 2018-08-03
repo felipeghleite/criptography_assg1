@@ -15,7 +15,7 @@ void main(){
 	lastKeyLength = 0;
 	lastPos = 0;
 
-	printf("funfa!");
+	//printf("funfa!");
 
 	fpOut = fopen("freq.txt", "w");
 	fpIn = fopen("ctext.txt", "r");
@@ -24,7 +24,8 @@ void main(){
 	fclose(fpIn);
 
 	for(keyLength = 2; keyLength < 17 ; keyLength++){
-
+		
+		printf("Keylength:%d\n\n", keyLength);
 		for(j = 0; j < fileLength; j++){
 			fpIn = fopen("ctext.txt", "r");
 			fseek(fpIn, j, SEEK_SET);
@@ -47,15 +48,18 @@ void main(){
 				lastMax = i;
 				lastKeyLength = keyLength;
 				lastPos = j;
-				printf("keyLength=%d\nFrequency=%d\nCharacter=%02X\n____________________________\n",keyLength,i,initCh);
+			//	printf("keyLength=%d\nFrequency=%d\nCharacter=%02X\nPosition=%d\n____________________________\n",keyLength,i,initCh,j);
 
 			}
+
+			printf("%d ", i);
 
 			i = 0;
 			fclose(fpIn);
 
 		}
-
+	printf("\n\n");
+	getchar();
 
 	}
 

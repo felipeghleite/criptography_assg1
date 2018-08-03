@@ -4,7 +4,7 @@
 #define KEY_LENGTH 5
 
 void main(){
-	unsigned int ch = 0;
+	unsigned short ch = 0;
 	FILE *fpIn, *fpOut;
 	int i;
 	unsigned char key[KEY_LENGTH] = {0x5A, 0x1B, 0x00, 0x00, 0x00};
