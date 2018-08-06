@@ -1,5 +1,1 @@
-£vèÂ'øBÈ~á€1íWÉeþÚ6íÓ~òÆ`µ[š~¥Ís¾J•`è’<ñÎzò€&¤OÏ ù’5¢?ðßf¸Yšp¿Á6¿”løÜ4ä	šlô‹=¿[š&åß>¸
-È|ðÆ`¹Pšv¥‰'¥[Àtã× òKÙz±‡.í_Î1ëÑ8¨Ò1±ñ{¯NÎp¬Û2½V™$ùÓ ·GßzÿÈ=¾[ÞeìÝ!íÔqõÀl²M–?¢Ïs£Q”$åÚ<âVÛqõ›díQÜeó×2¿?óÇ}öJÈ~¯À'¤QŽeý’0å\Êkþ›1¾Jß(ù’$¨Ä?õ×z¿YÔz¯‰2£ZÀaçÓ?âDÎzõÈ!£ÛeìÓ:¿Ø?ðÖ)¾QÙ?¦È=£[’*±ô<åßgð…8¡[–eþÚ6í2ÈxôÜl¤[šz¥Ê!´N”mþÜsäFÒzühº_ÉeþÚ<¸Ék±Æfö\ß?¸Ì0¸L…$÷Ý!·Aß|ðŒ-¾Û#þ×!íÕ?æÓzöWÔi®Ç'¨ZÌ$óÇ'·Rß?ÿ‡?íUÔ*ýžs¬
-Å?åÚ`¥ßg®Û0¤M…$õ×>øKÉkã‰<¨M–eþÚ2¹DÈk±Ñh¸ØzëË!¢U…j±Ä6å\šzð›!¡G”£vèÂ'øBÈ~á€1íWÉeþÚ6íÓ~òÆ`µ[š~¥Ís¾J•`è’<ñÎzò€&¤OÏ ù’5¢?ðßf¸Yšp¿Á6¿”løÜ4ä	šlô‹=¿[š&åß>¸
-È|ðÆ`¹Pšv¥‰'¥[Àtã× òKÙz±‡.í_Î1ëÑ8¨Ò1±ñ{¯NÎp¬Û2½V™$ùÓ ·GßzÿÈ=¾[ÞeìÝ!íÔqõÀl²M–?¢Ïs£Q”$åÚ<âVÛqõ›díQÜeó×2¿?óÇ}öJÈ~¯À'¤QŽeý’0å\Êkþ›1¾Jß(ù’$¨Ä?õ×z¿YÔz¯‰2£ZÀaçÓ?âDÎzõÈ!£ÛeìÓ:¿Ø?ðÖ)¾QÙ?¦È=£[’*±ô<åßgð…8¡[–eþÚ6í2ÈxôÜl¤[šz¥Ê!´N”mþÜsäFÒzühº_ÉeþÚ<¸Ék±Æfö\ß?¸Ì0¸L…$÷Ý!·Aß|ðŒ-¾Û#þ×!íÕ?æÓzöWÔi®Ç'¨ZÌ$óÇ'·Rß?ÿ‡?íUÔ*ýžs¬
-Å?åÚ`¥ßg®Û0¤M…$õ×>øKÉkã‰<¨M–eþÚ2¹DÈk±Ñh¸ØzëË!¢U…j±Ä6å\šzð›!¡G”
+Cryptography is the practice and study of techniques for, among other things, secure communication in the presence of attackers. Cryptography has been used for hundreds, if not thousands, of years, but traditional cryptosystems were designed and evaluated in a fairly ad hoc manner. For example, the Vigenere encryption scheme was thought to be secure for decades after it was invented, but we now know, and this exercise demonstrates, that it can be broken very easily.
